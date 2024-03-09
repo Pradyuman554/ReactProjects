@@ -45,8 +45,7 @@ ReactDOM.render(
       <th>Top Colour</th>
     </tr>
     <tr>
-    {/* git */}
-    {/* firse */}
+    {/* git  fire */}
       <td>{teslaTopSpeed}</td>
       <td>{teslaTopColour}</td>
     </tr>
