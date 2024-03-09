@@ -45,12 +45,10 @@ ReactDOM.render(
       <th>Top Colour</th>
     </tr>
     <tr>
-      {/* <td>{tesla.model}</td> */}
       <td>{teslaTopSpeed}</td>
       <td>{teslaTopColour}</td>
     </tr>
     <tr>
-      {/* <td>{honda.model}</td> */}
       <td>{hondaTopSpeed}</td>
       <td>{hondaTopColour}</td>
     </tr>
