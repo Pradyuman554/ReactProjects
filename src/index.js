@@ -45,7 +45,6 @@ ReactDOM.render(
       <th>Top Colour</th>
     </tr>
     <tr>
-    {/* oki */}
       <td>{teslaTopSpeed}</td>
       <td>{teslaTopColour}</td>
     </tr>
